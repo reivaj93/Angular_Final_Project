@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {} from './chuck.service';
 
 @Component({
   selector: 'app-root',
